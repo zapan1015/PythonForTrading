@@ -18,3 +18,5 @@ if [ -d /root/miniconda3/bin ]; then
 fi
 EOF
 	
+conda install -y pandas
+conda install -y ipython
