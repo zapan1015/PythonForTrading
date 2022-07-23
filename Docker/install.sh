@@ -20,3 +20,5 @@ EOF
 	
 conda install -y pandas
 conda install -y ipython
+
+cd /root/
